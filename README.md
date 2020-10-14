@@ -6,8 +6,8 @@
 4. Commit the change
 
 ### Tasks to be done
-- [ ] Complete the README.md file
-- [ ] Use different elements in the README.md file
+- [x] Complete the README.md file
+- [x] Use different elements in the README.md file
 
 ### Tables 
 Name | Items
